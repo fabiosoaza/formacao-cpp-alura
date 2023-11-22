@@ -1,0 +1,43 @@
+# automatically generated from vscode
+.vscode
+.factorypath
+
+
+# release folder to distribute binaries
+out
+
+#cmake generated files
+cmake-build-debug/
+CMakeUserPresets.json
+
+# all other type of files generated automatically
+linkfile
+*.o
+*.a
+*.obj
+*.bin
+*.sym
+*.pic
+*.pal
+
+.devbox
+devbox.lock
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+*.lck
+*.versionsBackup
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# NetBeans
+nb-configuration.xml
+
+

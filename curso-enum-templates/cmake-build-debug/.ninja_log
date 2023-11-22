@@ -1,0 +1,20 @@
+# ninja log v5
+458	528	1700439736773918160	curso_enum_templates	570cdc40396e0fc2
+5	441	1700412247620102773	CMakeFiles/curso_enum_templates.dir/AutenticavelSenha.cpp.o	412b29feb773dc94
+3	282	1700439173682237630	CMakeFiles/curso_enum_templates.dir/Cpf.cpp.o	2f33406204adda34
+4	509	1700439173910231122	CMakeFiles/curso_enum_templates.dir/Pessoa.cpp.o	342210ae78c621b7
+0	54	1700440143250178181	build.ninja	57b0d72847f7981b
+3	390	1700439173790234547	CMakeFiles/curso_enum_templates.dir/Caixa.cpp.o	e611c48f17e20c32
+4	437	1700439173838233177	CMakeFiles/curso_enum_templates.dir/ContaCorrente.cpp.o	d351e96536aa6f60
+4	592	1700439173994228724	CMakeFiles/curso_enum_templates.dir/Funcionario.cpp.o	27841427781af8f8
+2	458	1700439736701920245	CMakeFiles/curso_enum_templates.dir/main.cpp.o	d6840351acd0a800
+5	410	1700439173810233976	CMakeFiles/curso_enum_templates.dir/Gerente.cpp.o	32bd55be214697a5
+2	648	1700439174046227239	CMakeFiles/curso_enum_templates.dir/Conta.cpp.o	c45511280ff6e295
+2	418	1700439736657921520	CMakeFiles/curso_enum_templates.dir/GerenciadorDeContas.cpp.o	e7f0ed4ea04b8581
+1	208	1700416222069951612	CMakeFiles/curso_enum_templates.dir/DiaSemana.cpp.o	d27dca202fda85cb
+3	492	1700439173890231693	CMakeFiles/curso_enum_templates.dir/Titular.cpp.o	d60e709820a6ee41
+4	551	1700439173950229980	CMakeFiles/curso_enum_templates.dir/ContaPoupanca.cpp.o	fc7d47c6b798245
+1	255	1700440526911136764	CMakeFiles/curso_enum_templates.dir/ContaCorrente.cpp.o	d351e96536aa6f60
+255	325	1700440526979134809	curso_enum_templates	570cdc40396e0fc2
+1	275	1700440555994300673	CMakeFiles/curso_enum_templates.dir/ContaPoupanca.cpp.o	fc7d47c6b798245
+275	347	1700440556090297914	curso_enum_templates	570cdc40396e0fc2
